@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&family=DM+Serif+Display:ital@0;1&family=Permanent+Marker&family=Poppins:wght@300;400;600&display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: "DM Serif Display", serif;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    background-image: url("https://wallpaperbat.com/img/484117-hacker-wallpaper.jpg");
+    overflow: hidden;
+    object-fit: contain;
+    
+}
+
+.div{
+    position: absolute;
+    background-color: black;
+    left: 25%;
+    padding: 20px;
+    margin-top:83px;
+    margin-left: 30px;
+    height: 60vh;
+    width: 40%;
+    border:  solid 5px rgb(44, 115, 44);
+    border-top: solid 10px rgb(44, 115, 44);
+    color: rgb(67, 220, 88);
+    line-height: 1.2;
+   
+}
